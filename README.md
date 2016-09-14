@@ -1,2 +1,2 @@
 # ajax-php
-s
+Get & Post Script contents Code to send Ajax Request
